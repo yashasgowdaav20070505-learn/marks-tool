@@ -2,4 +2,4 @@
 def average(marks):
     return sum(marks) / len(marks)
 def highest(marks):
-    oreturn max(marks)
+    return max(marks)
